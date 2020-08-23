@@ -42,4 +42,4 @@ Always open to new challenges and ready to face changes.
 
 ### Reach me out:
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Santos-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-fs/)](https://www.linkedin.com/in/daniel-fs/) 
-[![Gmail Badge](https://img.shields.io/badge/-santos.danielfd@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santos.danielfd@gmail.com)](santos.danielfd@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-santos.danielfd@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santos.danielfd@gmail.com)](mailto:santos.danielfd@gmail.com)
