@@ -35,6 +35,7 @@ Always open to new challenges and ready to face changes.
 - Learning about Django from University of Michigan tutors on the [Coursera platform](https://www.coursera.org/specializations/django)
 - Deepening knowledge in analysis of algorithms and data structure
 - Researching more about data science and its applications in the real world
+- Looking for internship. Contact me :)
 
 ---
 
