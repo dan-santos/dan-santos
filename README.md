@@ -32,10 +32,9 @@ Always open to new challenges and ready to face changes.
 
 ### - I'm currently...
 
-- Learning about Django from University of Michigan tutors on the [Coursera platform](https://www.coursera.org/specializations/django)
-- Deepening knowledge in analysis of algorithms and data structure
-- Researching more about data science and its applications in the real world
-- Looking for internship. Contact me :)
+- Learning about Django on the [Udemy platform](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/)
+- Deepening my knowledge in Python 
+- Researching more about web development
 
 ---
 
