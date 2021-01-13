@@ -5,7 +5,7 @@ My name is Daniel, I'm from Brazil 🇧🇷. I've been studying programming sinc
 Because of my interest in social sciences, I am passionate about data science and everything that have a positive impact on society.
 Always open to new challenges and ready to face changes.
 
-[![Github Stats By Daniel Santos](https://github-readme-stats.vercel.app/api?username=dan-santos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/dan-santos/github-readme-stats)
+[![Github Stats By Daniel Santos](https://github-readme-stats.vercel.app/api?username=dan-santos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)](https://github.com/dan-santos/github-readme-stats)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
