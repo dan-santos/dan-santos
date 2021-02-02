@@ -32,8 +32,8 @@ Always open to new challenges and ready to face changes.
 
 ### - I'm currently...
 
-- Learning about Django on the [Udemy platform](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/)
 - Deepening my knowledge in Python 
+- Learning about UI/UX and Front end development on the [Origamid plataform](https://www.origamid.com/)
 - Researching more about web development
 
 ---
