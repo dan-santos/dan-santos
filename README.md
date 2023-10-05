@@ -41,4 +41,4 @@ Passionate of anything about software engineering, back-end, solutions architect
 
 ### Reach me out:
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Santos-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-fs/)](https://www.linkedin.com/in/daniel-fs/) 
-[![Gmail Badge](https://img.shields.io/badge/-santos.danielfd@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfs.dev.io@gmail.com)](mailto:dfs.dev.io@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dfs.dev.io@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfs.dev.io@gmail.com)](mailto:dfs.dev.io@gmail.com)
