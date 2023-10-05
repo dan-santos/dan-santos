@@ -4,7 +4,11 @@ My name is Daniel, I'm from Brazil 🇧🇷. I've been studying programming sinc
 
 Passionate of anything about software engineering, back-end, solutions architecture, and social sciences. 
 
-[![Github Stats By Daniel Santos](https://github-readme-stats.vercel.app/api?username=dan-santos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)](https://github.com/dan-santos/github-readme-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dan-santos&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dan-santos&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-santos&theme=default)  |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dan-santos&theme=default) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dan-santos&mode=weekly)](https://git.io/streak-stats) |
+| :-: | :-: |
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
